@@ -24,6 +24,7 @@ public class Frm_Login extends javax.swing.JFrame {
         initComponents();
         setTitle("Gestión de Almacenes"); 
         /*PRUEBA PARA VERIFICAR COMMIT Y CHECKOUT*/
+        /*NUEVA VERSION EDITADA*/
     }
 
     /**
